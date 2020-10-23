@@ -1,4 +1,9 @@
 .title {
    font-size: 45px;
-   color: lawngreen;
+   color: mediumblue;
+}
+
+.back {
+   background-color: lightpink;
+   padding: 50px;
 }

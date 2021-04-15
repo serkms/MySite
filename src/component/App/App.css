@@ -1,0 +1,4 @@
+.app{
+	display: grid;
+	grid-template: auto / minmax(15px, auto) minmax(auto, 1400px) minmax(15px, auto);
+}
